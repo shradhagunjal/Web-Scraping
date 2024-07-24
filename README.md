@@ -11,7 +11,7 @@ The project involves:
 
 ## Files
 
-- `Web Scraping.py`: Python script for scraping GDP data from Wikipedia.
+- `Web Scraping.ipynb`: Python script for scraping GDP data from Wikipedia.
 - `list_of_cities_by_gdp.csv`: csv file containing cleaned and organized GDP data.
 - `README.md`: This file, which provides an overview for the project.
 
