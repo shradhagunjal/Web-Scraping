@@ -1,6 +1,6 @@
 # City GDP Data Scraper
 
-This repository contains a Python script designed to scrape GDP data from the Wikipedia page "List of cities by GDP" and clean the data using Excel. The cleaned data provides detailed information about various cities, including their GDP and metropolitan populations.
+This repository contains a Python script designed to scrape GDP data from the Wikipedia page "List of cities by GDP" and clean the data using Exce. The cleaned data provides detailed information about various cities, including their GDP and metropolitan populations.
 
 ## Overview
 
